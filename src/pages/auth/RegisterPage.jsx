@@ -1093,7 +1093,7 @@ export default function RegisterPage() {
           </>
         );
 
-      case 7:
+      case 11:
         return (
           <>
             <h2 className="register-form-title">Investment Preferences</h2>
@@ -1148,7 +1148,7 @@ export default function RegisterPage() {
           </>
         );
 
-      case 8:
+      case 12:
         return (
           <>
             <h2 className="register-form-title">Financial Information</h2>
@@ -1214,7 +1214,7 @@ export default function RegisterPage() {
           </>
         );
 
-      case 9:
+      case 13:
         return (
           <>
             <h2 className="register-form-title">Identity Verification</h2>
