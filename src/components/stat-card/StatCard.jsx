@@ -1,4 +1,4 @@
-import './StatCard.css';
+import './statCard.css';
 
 export default function StatCard({ icon, color, title, value, change, description }) {
 
